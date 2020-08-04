@@ -5,9 +5,9 @@
 GAME RULES:
 
 - The game has 2 players, playing in rounds
-- In each turn, a player rolls a dice as many times as he whishes. Each result get added to his ROUND score
+- In each turn, a player rolls a dice as many times as he wishes. Each result get added to his ROUND score
 - BUT, if the player rolls a 1, all his ROUND score gets lost. After that, it's the next player's turn
-- The player can choose to 'Hold', which means that his ROUND score gets added to his GLBAL score. After that, it's the next player's turn
+- The player can choose to 'Hold', which means that his ROUND score gets added to his GLOBAL score. After that, it's the next player's turn
 - The first player to reach 100 points on GLOBAL score wins the game
 
 How to Setup:
@@ -34,7 +34,7 @@ How to Setup:
 
 - Uses a recipe API for search queries. 
 - Shopping lists are created from recipe ingredient list and can be modified. 
-- Favourite recipes can be saved for future quick reference (saved in local storage). 
+- Favorite recipes can be saved for future quick reference (saved in local storage). 
 - Pagination is used to help limit returned results.
 
 How to Setup:
